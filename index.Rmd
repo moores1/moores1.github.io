@@ -1,0 +1,56 @@
+---
+title: "Sophia Moore"
+image: "IMG_20210424_200954_910.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sophia-moore-ab1877218/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/moores1"
+  - label: Email
+    url: "mailto:sgmoore0014@gmail.com"
+  - label: Resume
+    url: "SMooreResume.pdf"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**Simmons University** | Boston, MA
+
+B.S. in Financial Mathematics | August 2021 - May 2024
+
+**Arrowhead Park Medical Academy** | Las Cruces, NM
+
+Valedictorian with my High School Diploma | July 2017 - May 2021
+
+## Experience
+
+**Driving Forward** | Intern | January 2022 - Present
+
+**Simmons University** | Statistics grader | January 2022 - present
+
+**Medical Offices of Dr. Ann Mercer** | Medical Biller | May 2020 - August 2021
+
+
+## Portfolio
+
+1. [**Mini-Project 1 STAT 228**](Project1.html) | February 2022
+
+
+
+
+
+
+
