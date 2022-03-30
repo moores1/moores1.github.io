@@ -4,26 +4,26 @@ image: "IMG_20210424_200954_910.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sophia-moore-ab1877218/"
-  - label: Twitter
-    url: "https://twitter.com/"
+ # - label: Twitter
+  #  url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/moores1"
   - label: Email
     url: "mailto:sgmoore0014@gmail.com"
   - label: Resume
-    url: "SMooreResume.pdf"
+    url: "Sophia Moore Resume.pdf"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I'm Sophia Moore, and I am a current Sophomore at Simmons University where I 
+study Financial Math. On campus, I am involved in the Business Liaison, Beta Alpha
+Psi, and the American Marketing Association.This summer, I am going to be interning
+at HarbourVest Partners LLC in their Portfolio Analytics division, and I will be 
+a Program Support intern for CliftonLarsonAllen LLP. In my free time, I love to 
+read books about economics, play chess, and play volleyball!
 
 ## Education
 
@@ -37,7 +37,7 @@ Valedictorian with my High School Diploma | July 2017 - May 2021
 
 ## Experience
 
-**Driving Forward** | Intern | January 2022 - Present
+**Driving Forward** | Intern | January 2022 - May 2022
 
 **Simmons University** | Statistics grader | January 2022 - present
 
@@ -47,6 +47,10 @@ Valedictorian with my High School Diploma | July 2017 - May 2021
 ## Portfolio
 
 1. [**Mini-Project 1 STAT 228**](Project1.html) | February 2022
+
+2. [**Driving Forward Case Study Presentation**](Tesla Case Study.pdf) | March 2022
+
+3. [**Financial Analysis Case Study**](Financial Management Case Study Project.pdf) | December 2021
 
 
 
