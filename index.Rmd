@@ -1,0 +1,60 @@
+---
+title: "Sophia Moore"
+image: "IMG_20210424_200954_910.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sophia-moore-ab1877218/"
+ # - label: Twitter
+  #  url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/moores1"
+  - label: Email
+    url: "mailto:sgmoore0014@gmail.com"
+  - label: Resume
+    url: "Sophia Moore Resume.pdf"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I'm Sophia Moore, and I am an incoming junior at Simmons University where I 
+study Financial Math. On campus, I am involved in the Business Liaison, Beta Alpha
+Psi, and the American Marketing Association. This summer, I am going to be interning
+at HarbourVest Partners LLC in their Portfolio Analytics division, and I will be 
+a Program Support intern for CliftonLarsonAllen LLP. In my free time, I love to 
+read books about economics, play chess, and play volleyball!
+
+## Education
+
+**Simmons University** | Boston, MA
+
+B.S. in Financial Mathematics | August 2021 - May 2024
+
+**Arrowhead Park Medical Academy** | Las Cruces, NM
+
+Valedictorian with my High School Diploma | July 2017 - May 2021
+
+## Experience
+
+**Driving Forward** | Intern | January 2022 - May 2022
+
+**Simmons University** | Statistics grader | January 2022 - present
+
+**Medical Offices of Dr. Ann Mercer** | Medical Biller | May 2020 - August 2021
+
+
+## Portfolio
+
+1. [**Data Science Final Project**](Project1.html) | February 2022
+
+2. [**Driving Forward Case Study Presentation**](Tesla Case Study.pdf) | March 2022
+
+3. [**Financial Analysis Case Study**](Financial Management Case Study Project.pdf) | December 2021
+
+
+
+
+
+
+
