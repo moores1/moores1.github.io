@@ -1,0 +1,60 @@
+---
+title: "Sophia Moore"
+image: "IMG_20210424_200954_910.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sophia-moore-ab1877218/"
+  - label: GitHub
+    url: "https://github.com/moores1"
+  - label: Email
+    url: "mailto:sgmoore0014@gmail.com"
+
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I’m currently a student at Columbia University, studying Operations Research with a concentration in Financial Engineering, and I’m also part of the 3+2 Engineering Program with Simmons University, where I recently completed a B.S. in Financial Mathematics. My journey through quantitative finance has been driven by a love of problem-solving, data analysis, and building models that turn complex information into actionable insights.
+
+Over the past few years, I’ve explored these interests through internships in portfolio analytics, sales & trading, and quantitative trading, where I’ve applied coding, modeling, and analytical skills to real-world financial data. Beyond technical work, I’m deeply passionate about mentorship and advancing women in quantitative finance - founding Columbia Lioness Quantitative to create hands-on workshops, speaker events, and industry networking opportunities has been one of the most rewarding experiences!
+
+Outside of work and academics, I’m endlessly curious about the world: I love reading about economics, exploring markets, and testing my strategic thinking in chess and poker. I also enjoy staying active through volleyball and sailing, and I’ve earned certifications as a sailboat handler and chess tournament director.
+I created this website as a space to share my projects, experiences, and ideas, and I hope it gives a sense of both my professional journey and the curiosity and creativity that drive me every day.
+
+Here is a link to my full resume: [Expanded Resume](Sophia%20Moore%20Resume.pdf)
+
+## Education
+
+**Columbia University** \| New York City, NY
+
+B.S. in Operations Research \| September 2024 - May 2026
+
+**Simmons University** \| Boston, MA
+
+B.S. in Financial Mathematics \| August 2021 - May 2024
+
+## Experience
+
+**Mizuho** \| Fixed Income Sales & Trading Intern \| June 2025 - August 2025
+
+**Barings LLC** \| Portfolio Solutions & Analytics Intern \| June 2024 - August 2024
+
+**HarbourVest Partners LLC** \| Portfolio Analytics Intern \| June 2022 - May 2024
+
+**Chicago Trading Company** \| Quantitative Trading Analyst \| June 2023 - August 2023
+
+
+## Portfolio
+
+1.  [**NLP In Finance - NLP Analysis of Earnings Calls**](NLP%in%Finance.pdf) \|December 2024
+
+2.  [**Technology Sector Influence on the VIX - Econometrics Paper**](Econometrics%20Final%20Project.pdf) \| December 2023
+
+3.  [**JP Morgan Chase Data For Good Hackathon Pitch Deck**](Star%20House%20Team%205%20PItch%20Deck.pdf) \| October 2022
+
+4.  [**Driving Forward Case Study Presentation**](Tesla%20Case%20Study.pdf) \| March 2022
+
+5.  [**Financial Analysis Case Study**](Financial%20Management%20Case%20Study%20Project.pdf) \| December 2021
+
+6.  [**Data Science Final Project**](Project4.html) \| February 2022
