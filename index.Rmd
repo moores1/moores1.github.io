@@ -47,7 +47,7 @@ B.S. in Financial Mathematics \| August 2021 - May 2024
 
 ## Portfolio
 
-1.  [**NLP In Finance - NLP Analysis of Earnings Calls**](NLP%in%Finance.pdf) \|December 2024
+1.  [**NLP In Finance - NLP Analysis of Earnings Calls**](nlp_in_finance.pdf) \|December 2024
 
 2.  [**Technology Sector Influence on the VIX - Econometrics Paper**](Econometrics%20Final%20Project.pdf) \| December 2023
 
