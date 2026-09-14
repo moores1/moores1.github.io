@@ -1,0 +1,61 @@
+---
+title: "Sophia Moore"
+image: "IMG_20210424_200954_910.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sophia-moore-ab1877218/"
+  - label: GitHub
+    url: "https://github.com/moores1"
+  - label: Email
+    url: "mailto:smoore8@law.cardozo.yu.edu"
+
+output:
+  postcards::trestles
+---
+
+## Bio
+
+My path to Cardozo Law started with a love of problem-solving and building models that turn complex information into actionable insights. However, the more time I spent in financial markets, the more I found myself drawn to the rules, contracts, and regulatory frameworks that shape what happens on the desk in the first place.
+
+Over the past few years, I've seen the technical side of markets through internships in fixed income trading, portfolio analytics, and quant trading, applying coding and analytical skills to financial data. Those experiences sparked my interest in securities and regulatory law now: I want to understand not just how markets work, but how the legal and compliance structures around them are enforced.
+
+Outside of work and academics, I'm endlessly curious about the world: I love reading about economics, running, and strategy games like chess and poker! I created this website as a space to share my projects and experiences, and I hope it gives a sense of both my professional journey and the curiosity and creativity that drive me every day.
+
+## Education
+
+**Cardozo Law School** \| New York City, NY
+
+Juris Doctor Candidate \| August 2026 - May 2029
+
+**Columbia University** \| New York City, NY
+
+B.S. in Operations Research \| September 2024 - May 2026
+
+**Simmons University** \| Boston, MA
+
+B.S. in Financial Mathematics \| August 2021 - May 2024
+
+## Experience
+
+**Mizuho** \| Fixed Income Sales & Trading Intern \| June 2025 - August 2025
+
+**Barings LLC** \| Portfolio Solutions & Analytics Intern \| June 2024 - August 2024
+
+**HarbourVest Partners LLC** \| Portfolio Analytics Intern \| June 2022 - May 2024
+
+**Chicago Trading Company** \| Quantitative Trading Analyst \| June 2023 - August 2023
+
+
+## Portfolio
+
+1. [**Optimizating Data Center Siting in Texas**](OR%for%Public%Policy.pdf) \| May 2026
+
+2.  [**NLP In Finance - NLP Analysis of Earnings Calls**](NLP%in%Finance.pdf) \| December 2024
+
+3.  [**Technology Sector Influence on the VIX - Econometrics Paper**](Econometrics%20Final%20Project.pdf) \| December 2023
+
+4.  [**JP Morgan Chase Data For Good Hackathon Pitch Deck**](Star%20House%20Team%205%20PItch%20Deck.pdf) \| October 2022
+
+5.  [**Driving Forward Case Study Presentation**](Tesla%20Case%20Study.pdf) \| March 2022
+
+6.  [**Data Science Final Project**](Project4.html) \| February 2022
